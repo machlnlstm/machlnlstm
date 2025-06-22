@@ -38,5 +38,12 @@ Hello. I'm a Frontend developer with a passion for building scalable, user-frien
 
 ---
 
+## Projects
+
+### 🎵 YouPlayer
+A music player with a personalized selection of tracks based on the user's psycho-emotional state.
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js
+- **Live:** [View Site](https://alextsaplin.itch.io/youplayer)(https://gamejolt.com/games/yp/987844)
+- **GitHub:** [View Repository](https://github.com/machlnlstm/Player-qual)
 
 
