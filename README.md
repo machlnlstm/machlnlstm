@@ -60,7 +60,7 @@ A roguelike RPG game with automatic attacks and waves of enemies.
 ---
 
 ## 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexs8k0l@gmail.com) - alexs8k0l@gmail.com
+[Email]alexs8k0l@gmail.com
 
 ---
 
