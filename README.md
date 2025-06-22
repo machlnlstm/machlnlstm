@@ -49,6 +49,6 @@ A music player with a personalized selection of tracks based on the user's psych
 ### 🌐 GMusicGMood
 Landing page for a music service with an animated interface, service sections, and a contact form.
 - **Tech Stack:** HTML, CSS (Bootstrap + кастомні стилі), JavaScript
-- **GitHub:** [View Repository]([https://github.com/machlnlstm/Player-qual](https://github.com/machlnlstm/SiteMusicStudio)
+- **GitHub:** [View Repository](https://github.com/machlnlstm/SiteMusicStudio)
 
 
