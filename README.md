@@ -51,4 +51,10 @@ Landing page for a music service with an animated interface, service sections, a
 - **Tech Stack:** HTML, CSS (Bootstrap + кастомні стилі), JavaScript
 - **GitHub:** [View Repository](https://github.com/machlnlstm/SiteMusicStudio)
 
+### 🕹️ Shinobi Invasion
+A roguelike RPG game with automatic attacks and waves of enemies.
+- **Tech Stack:** Godot Engine
+- **Live:** [Newgrounds](https://www.newgrounds.com/portal/view/930851)
+- **GitHub:** [View Repository](https://github.com/machlnlstm/Shinobi-Invasion)
 
+---
