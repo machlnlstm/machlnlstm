@@ -21,7 +21,7 @@ Hello. I'm a Frontend developer with a passion for building scalable, user-frien
 - JavaScript (ES6+), TypeScript
 - Next.js, Express.js
 - Responsive Web Design, Adaptive Layouts
-- Bootstrap, W3.CSS, 
+- Bootstrap, W3.CSS
 
 ### Databases
 - NoSQL: MongoDB, JSON
