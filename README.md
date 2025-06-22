@@ -46,4 +46,9 @@ A music player with a personalized selection of tracks based on the user's psych
 - **Live:** [Itch.io](https://alextsaplin.itch.io/youplayer) | [GameJolt](https://gamejolt.com/games/yp/987844)
 - **GitHub:** [View Repository](https://github.com/machlnlstm/Player-qual)
 
+### 🌐 GMusicGMood
+Landing page for a music service with an animated interface, service sections, and a contact form.
+- **Tech Stack:** HTML, CSS (Bootstrap + кастомні стилі), JavaScript
+- **GitHub:** [View Repository]([https://github.com/machlnlstm/Player-qual](https://github.com/machlnlstm/SiteMusicStudio))
+
 
