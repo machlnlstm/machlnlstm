@@ -58,3 +58,6 @@ A roguelike RPG game with automatic attacks and waves of enemies.
 - **GitHub:** [View Repository](https://github.com/machlnlstm/Shinobi-Invasion)
 
 ---
+
+## 📫 Connect with Me
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdan.verb1@gmail.com)
